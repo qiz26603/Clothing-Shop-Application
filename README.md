@@ -12,7 +12,7 @@ This was a university team project (March 2025). I was the **team leader**, desi
 | ![Home]<img width="407" height="850" alt="image" src="https://github.com/user-attachments/assets/3b57ea37-5a45-42c9-a21c-6a37143df0a8" />
 | ![Detail] <img width="235" height="511" alt="image" src="https://github.com/user-attachments/assets/531ef6cc-fa60-4184-938e-14329eb1d6b9" />
  | ![Cart] <img width="240" height="510" alt="image" src="https://github.com/user-attachments/assets/b2f08003-9d0b-4e43-9365-9fae097c206c" />
-| ![Order]<img width="237" height="507" alt="image" src="https://github.com/user-attachments/assets/74dda3ba-840f-4baa-b9bc-3bb3ddb8fbc9" />
+| ![Order] <img width="237" height="507" alt="image" src="https://github.com/user-attachments/assets/74dda3ba-840f-4baa-b9bc-3bb3ddb8fbc9" />
 |
 
 
